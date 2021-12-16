@@ -1,6 +1,6 @@
 # python-api-challenge
 
-#### Homework Submission
+### Homework Submission
 The submission pack is included:
 1. Jupyter notebooks: scrap_WeatherPy_final and scrap_VacationPy_final
 2. Output folders: 
