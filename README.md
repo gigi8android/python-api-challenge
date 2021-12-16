@@ -2,7 +2,7 @@
 
 ### Homework Submission
 The submission pack is included:
-1. Jupyter notebooks: scrap_WeatherPy_final[^1] and scrap_VacationPy_final
+1. Jupyter notebooks: scrap_WeatherPy_final and scrap_VacationPy_final [^1]
 2. Output folders: 
     - Folder output_data: contains csv file that exported from Part1 - WeatherPy (to be used in Part2 - VacationPy)
     - Folder output_images: contains graphs & images exported from Part1 & Part2 of the homework. [^2] *Note: the heatmap of VancationPy will be exported in html format and hence it won't be displayed appropriately in the jupyter notebook, please open it in the browser instead.*
