@@ -1,6 +1,7 @@
 # python-api-challenge
 
-The homework submission pack is included:
+######Homework Submission
+The submission pack is included:
 1. Jupyter notebooks: scrap_WeatherPy_final and scrap_VacationPy_final
 2. Output folders: 
     - Folder output_data: contains csv file that exported from Part1 - WeatherPy (to be used in Part2 - VacationPy)
@@ -10,4 +11,4 @@ The homework submission pack is included:
 **Note:** A sleep clock is set when performing API calls for part1 WeatherPy. API calls will be put on sleep for 60 seconds when a set of 50 cities had been called. The program will display on screen a message saying "Data Retrieval Completed" when all calls are done. Please refer to the comments embedded in the notebooks for more details.
 
 
-Data analysis/ observations: 
+######Data analysis/ observations: 
